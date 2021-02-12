@@ -1,0 +1,99 @@
+
+body {
+    background-color:#990909;
+    
+}
+
+
+.website {
+    color: rgb(228, 205, 205);
+    margin-top: 20px;
+    border-bottom: 1px solid rgb(228, 205, 205);
+    border-top: 1px solid rgb(228, 205, 205);
+    text-align: center;
+
+}
+
+
+.images {
+    background-color: #000;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 10px; 
+}
+
+
+.images__item {
+    color: #fff;
+    margin: 3px;
+    text-align: center;
+    
+    
+    
+}
+
+
+img {
+    width: 200px;
+    margin: 15px 30px;
+    margin-bottom: 3px;
+    
+}
+
+figcaption {
+    font-size: 24px;
+    
+}
+
+.aside__left {
+    background-color: #7d0909;
+    padding: 10px;
+    width: 200px;
+    height: 400px;
+    float: left;
+    margin-top: 3px;
+    color: #e95b0d;
+    margin-right: 6px;
+    padding: 0%;
+}
+
+section {
+    color: #fff;
+    
+}
+
+.aside__right {
+    background-color: #e2e0e0;
+    padding: 10px;
+    width: 200px;
+    height: 400px;
+    float: right;
+    margin-top: 3px;
+    padding: 0%;
+    margin-left: 6px;
+    
+
+}
+
+.aside__head {
+    text-align: center;
+    font-weight: bold;
+    background-color: #b6b3b3;
+
+}
+
+.text {
+    border-top: 1px solid #b6b3b3;
+    padding-top: 30px;
+    margin: 10px 6px 15px;
+
+}
+
+footer {
+    background-color: #E95B11;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin: 280px auto 25px;
+    
+}
